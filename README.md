@@ -1,6 +1,6 @@
   <p><strong>Welcome to my profile!</strong></p>
 <img alt="image header" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/imgs/header.png"> 
-<h1 id="hi--im-marcos"><p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I’m Land Nayan Yadav!</p></h1>
+<h1 id="hi--im-marcos"><p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I’m Kamal Nayan Yadav!</p></h1>
 
   
 <p>I’m a high school student who lives in the United States. I’m learning how to code. I love making and designing webpages with HTML and CSS (and possible JavaScript in the future).  It’s fun to code something that anyone on the web can easily see. I also enjoy programming in C++ and Python because they challenge me more. I love it when I can finally solve a difficult problem.</p>
@@ -27,6 +27,14 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;Color=c95410" alt="Git">
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;color=283238" alt="GitHub">
 <img src="https://img.shields.io/badge/Arch%20Linux-0B2541?style=for-the-badge&amp;logo=arch-linux&amp;logoColor=white" alt="Arch"></p>
+
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&amp;layout=compact&amp;theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya549&amp;&amp;show_icons=true&amp;theme=radical&amp;count_private=true&amp;include_all_commits=true" alt="My Github Stats">
+</p>
+
+
 <h2 id="-github-stats"><img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github stats</h2>
 <p align="center">
     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=marcos-inja&amp;count_private=true&amp;show_icons=true&amp;custom_title=Github&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8"> <br>
