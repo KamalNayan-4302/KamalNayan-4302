@@ -1,6 +1,18 @@
   <p><strong>Welcome to my profile!</strong></p>
 <img alt="image header" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/imgs/header.png"> 
 <h1 id="hi--im-marcos"><p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I’m Marcos!</p></h1>
+
+  <p><img src="https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png" alt="Banner"></p>
+<p>I’m a high school student who lives in the United States. I’m learning how to code. I love making and designing webpages with HTML and CSS (and possible JavaScript in the future).  It’s fun to code something that anyone on the web can easily see. I also enjoy programming in C++ and Python because they challenge me more. I love it when I can finally solve a difficult problem.</p>
+<p>For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.</p>
+<ul>
+<li>🌱 I’m currently learning HTML, CSS, Python, and C++.</li>
+<li>🔭 I’m currently working on creating webpages and learning how to progam.</li>
+<li>😀 I like to crochet, code, read, and draw in my free time.</li>
+<li>💬 Ask me about fountain pens.</li>
+<li>⚡ Fun fact: My first line of code was not “Hello World!”</li>
+</ul>
+
 <h2 id="️-my-skills">⚙️ My skills</h2>
 <p><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
