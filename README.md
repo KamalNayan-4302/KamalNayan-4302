@@ -5,7 +5,7 @@
   
 <p>I’m an enthusiastic B.Tech graduate, who loves transforming ideas into seamless web experiences using MERN Stack. Whether I’m crafting sleek, responsive interfaces with React, HTML, CSS, JavaScript and Tailwind CSS or building robust backend services, I’m driven by the magic of creating solutions that anyone, anywhere can access. Tackling algorithmic challenges in Java and C sharpens my problem-solving skills and keeps me excited to learn more every day.</p> 
 <ul> 
-   <li>🔭 🔭 Building an **AI-driven personal finance advisor** to simplify money management.</li> 
+   <li>🔭 🔭 Building an <b>AI-driven personal finance advisor</b> to simplify money management.</li> 
   <li>🌱 Continuously expanding my toolkit with Node.js, Express.js, MongoDB, and cutting-edge frontend frameworks.</li>
  
   <li>😀 Beyond coding, I explore UI/UX design trends and stay curious about emerging technologies.</li>
